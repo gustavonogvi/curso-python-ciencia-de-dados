@@ -41,3 +41,11 @@ git clone https://github.com/gustavonogvi/curso-python-ciencia-de-dados.git
 
 2. Navegue até a pasta do módulo desejado.
 3. Abra os arquivos `.ipynb` utilizando o **Jupyter Notebook**, **VS Code** ou **Google Colab**.
+
+## Integrantes da equipe
+
+- Rafael da Silva Albuquerque
+- Wadson Gurgel Satiro
+- Fabricio Oliveira de Sousa
+- Gustavo Vinhas Nogueira
+
