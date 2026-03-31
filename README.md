@@ -14,38 +14,69 @@ Bem-vindo ao repositório do curso de **Python para Análise de Dados**. Este pr
 
 ## Estrutura do Repositório
 
-O curso está dividido em módulos lógicos para facilitar o aprendizado progressivo:
-
-* **`modulo1/`**: Fundamentos de Python, tipos de dados, estruturas de repetição e introdução ao Pandas.
-* `dataset_desempenho_escolar.csv`: Dados para prática inicial.
-* `modulo1_fundamentos_python.ipynb`: Notebook com a teoria e exemplos.
-* `exercicios_modulo1.ipynb`: Desafios práticos do módulo.
-
-* **`modulo2/`**: (Em desenvolvimento) Manipulação de Dados.
-* **`modulo3/`**: (Em desenvolvimento) Visualização de Dados.
-* **`modulo4/`**: (Em desenvolvimento) Análise Exploratório de Dados (EDA).
-* **`projeto-final/`**: Diretório reservado para o trabalho de conclusão da disciplina.
-
-## Pré-requisitos do curso
-
-Leia o conteúdo do arquivo 'Pré-requisitos.md', encontrado nesse mesmo repositório.
+| Módulo | Conteúdo | Status |
+|--------|----------|--------|
+| `modulo1/` | Fundamentos de Python | ✅ Concluído |
+| `modulo2/` | Manipulação de Dados com Pandas | ✅ Concluído |
+| `modulo3/` | Visualização de Dados com Matplotlib e Seaborn | 🔄 Em desenvolvimento |
+| `modulo4/` | Análise Exploratória de Dados (EDA) | 🔄 Em desenvolvimento |
+| `projeto-final/` | Trabalho de conclusão da disciplina | 🔄 Em desenvolvimento |
 
 ---
 
-## Como utilizar este repositório
+## Como executar os notebooks
 
-1. Faça o clone do projeto:
+### No Google Colab (recomendado)
+
+Não precisa instalar nada. Acesse o link do módulo desejado no README de cada pasta, ou:
+
+1. Acesse [colab.research.google.com](https://colab.research.google.com)
+2. Clique em **GitHub** e cole a URL deste repositório
+3. Escolha o notebook que quer abrir
+4. Crie uma cópia antes de editar: `Arquivo > Salvar uma cópia no Drive`
+
+### Na sua máquina
+
+Clone o repositório:
+
 ```bash
 git clone https://github.com/gustavonogvi/curso-python-ciencia-de-dados.git
+cd curso-python-ciencia-de-dados
 ```
 
-2. Navegue até a pasta do módulo desejado.
-3. Abra os arquivos `.ipynb` utilizando o **Jupyter Notebook**, **VS Code** ou **Google Colab**.
+Crie e ative um ambiente virtual:
 
-## Integrantes da equipe
+```bash
+python3 -m venv .venv
+source .venv/bin/activate   # Linux e MacOS
+.\.venv\Scripts\activate    # Windows
+```
+
+Instale as dependências:
+
+```bash
+pip install jupyter pandas numpy matplotlib seaborn
+```
+
+Inicie o Jupyter:
+
+```bash
+jupyter notebook
+```
+
+Acesse em `http://localhost:8888`
+
+---
+
+## Pré-requisitos
+
+Leia o arquivo `Pré-requisitos.md` antes de começar.
+
+---
+
+## Integrantes
 
 - Rafael da Silva Albuquerque
 - Wadson Gurgel Satiro
 - Fabricio Oliveira de Sousa
 - Gustavo Vinhas Nogueira
-
