@@ -15,7 +15,7 @@ Esse é o modulo introdutório do Curso de Python para Ciência de Dados. Aqui v
 Você pode abrir os notebooks diretamente no Google Colab de duas formas:
 
 - Abrir do GitHub:
-	- Acesse https://colab.research.google.com/github/gustavonogvi/curso-python-ciencia-de-dados/blob/main/modulo1_fundamentos_python.ipynb
+	- Acesse https://colab.research.google.com/github/gustavonogvi/curso-python-ciencia-de-dados/blob/main/modulo1/modulo1_fundamentos_python.ipynb
 
 - Fazer upload local:
 	1. Acesse https://colab.research.google.com
