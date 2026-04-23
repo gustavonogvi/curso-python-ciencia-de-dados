@@ -18,9 +18,9 @@ Bem-vindo ao repositório do curso de **Python para Análise de Dados**. Este pr
 |--------|----------|--------|
 | `modulo1/` | Fundamentos de Python | ✅ Concluído |
 | `modulo2/` | Manipulação de Dados com Pandas | ✅ Concluído |
-| `modulo3/` | Visualização de Dados com Matplotlib e Seaborn | 🔄 Em desenvolvimento |
-| `modulo4/` | Análise Exploratória de Dados (EDA) | 🔄 Em desenvolvimento |
-| `projeto-final/` | Trabalho de conclusão da disciplina | 🔄 Em desenvolvimento |
+| `modulo3/` | Visualização de Dados com Matplotlib e Seaborn | ✅ Concluído |
+| `modulo4/` | Análise Exploratória de Dados (EDA) | ✅ Concluído |
+| `projeto-final/` | Trabalho de conclusão da disciplina | ✅ Concluído |
 
 ---
 
@@ -28,7 +28,17 @@ Bem-vindo ao repositório do curso de **Python para Análise de Dados**. Este pr
 
 ### No Google Colab (recomendado)
 
-Não precisa instalar nada. Acesse o link do módulo desejado no README de cada pasta, ou:
+Não precisa instalar nada. Clique no link do módulo desejado:
+
+| Módulo | Links |
+|--------|-------|
+| Módulo 1 | [Teoria](https://colab.research.google.com/github/gustavonogvi/curso-python-ciencia-de-dados/blob/main/modulo1/modulo1_fundamentos_python.ipynb) · [Exercícios](https://colab.research.google.com/github/gustavonogvi/curso-python-ciencia-de-dados/blob/main/modulo1/exercicios_modulo1.ipynb) |
+| Módulo 2 | [Teoria](https://colab.research.google.com/github/gustavonogvi/curso-python-ciencia-de-dados/blob/main/modulo2/modulo2_pandas.ipynb) · [Exercícios](https://colab.research.google.com/github/gustavonogvi/curso-python-ciencia-de-dados/blob/main/modulo2/exercicios_modulo2.ipynb) |
+| Módulo 3 | [Exemplos](https://colab.research.google.com/github/gustavonogvi/curso-python-ciencia-de-dados/blob/main/modulo3/Exemplos.ipynb) · [Spotify](https://colab.research.google.com/github/gustavonogvi/curso-python-ciencia-de-dados/blob/main/modulo3/Spotify.ipynb) |
+| Módulo 4 | [EDA Vinhos](https://colab.research.google.com/github/gustavonogvi/curso-python-ciencia-de-dados/blob/main/modulo4/modulo4_eda_vinhos.ipynb) |
+| Projeto Final | [Vinhos](https://colab.research.google.com/github/gustavonogvi/curso-python-ciencia-de-dados/blob/main/projeto-final/Vinhos.ipynb) |
+
+Ou acesse via:
 
 1. Acesse [colab.research.google.com](https://colab.research.google.com)
 2. Clique em **GitHub** e cole a URL deste repositório
